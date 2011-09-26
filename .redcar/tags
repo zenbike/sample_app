@@ -1,0 +1,8 @@
+1317051947
+Application	C:/Sites/sample_app/config/application.rb	  class Application 
+ApplicationController	C:/Sites/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/sample_app/test/performance/browsing_test.rb	class BrowsingTest 
+SampleApp	C:/Sites/sample_app/config/application.rb	module SampleApp
+TestCase	C:/Sites/sample_app/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	C:/Sites/sample_app/test/performance/browsing_test.rb	  def test_homepage
